@@ -4,7 +4,7 @@ Objetivo desse projeto era criar um Dashboard do zero no Power Bi
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Criando mru primeiro Dashboard**
+| :sparkles: Nome        | **Criando meu primeiro Dashboard**
 | :label: Tecnologias | Power BI (tecnologias utilizadas)
 | :rocket: URL         | https://app.powerbi.com/view?r=eyJrIjoiNzk3ZDZkODktNWIzNC00YTg2LWI3ODUtN2RiY2ZiMzE5MDA1IiwidCI6ImQwZTZiYmZmLTcxMzUtNGQ4Yi1hYmFhLTJhMTYwY2NjYWNiMCJ9&pageName=ReportSection
 | :fire: Desafio     | https://cursos.alura.com.br/course/power-bi-desktop-primeiro-dashboard
